@@ -20,11 +20,11 @@
 //     city: "Karachi",
 //     country: "Pakistan",
 // }
-
 // console.log("age" in property)
 // console.log("country" in property)
 // console.log("firstName" in property)
 // console.log("lastName" in property)
+
 
 
 //                                   QUESTION 3
